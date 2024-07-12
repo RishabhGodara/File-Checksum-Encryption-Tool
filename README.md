@@ -11,24 +11,24 @@ A desktop application built using CustomTkinter for calculating file checksums (
 ## Installation
 
 1. Clone the repository:
-    
+    ```
     https://github.com/RishabhGodara/File-Checksum-Encryption-Tool.git
    
 
 2. Navigate to the project directory:
-    
+    ```
     cd File-Checksum-Encryption-Tool
     
 
 3. Install the required dependencies:
-    
+    ```
     pip install -r requirement.txt
    
 
 ## Usage
 
 1. Run the application:
-    
+    ```
     python main.py
     
 
